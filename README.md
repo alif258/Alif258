@@ -2,7 +2,7 @@
 ![FRONT-END WEB DEVELOPER](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/494268601_1421185395556259_9082392315120780556_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHSfFWqGtS-DATO6PYjCjdjiA-_6_bYgdmID7_r9tiB2cOnzJU3oWCO3EQ9eSoPrE_FxCK4u6X8pMPJnyaKgtKi&_nc_ohc=--9A8eOMjP8Q7kNvwEjZQ4j&_nc_oc=Adnz4jzeXnSXKhTFTNPjSJFmxMyfNaYUsoDkg6Af1Zk9i-NbyvpQuyVXMZ5W_TEtKQ4&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=v_p03bUamlyxKQ8PR92hgQ&oh=00_AfHoT_rCkr5AK59vJmdilZHh936vEfBIOC5hJoWvp8VvxQ&oe=68145CBD)
 
 
-### Hi there 👋, I am Alif
+### Hi 👋, I am Alif
 #### FRONT-END WEB DEVELOPER
 
 
