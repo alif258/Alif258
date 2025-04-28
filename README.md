@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning React.js and Next.js  
 - 💻 I love building creative and responsive websites  
-- ✉️ Reach me at: alif.web.dev@gmail.com
+- ✉️ Reach me at: alif.web.bd@gmail.com
 
 ---
 
