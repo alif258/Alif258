@@ -1,15 +1,17 @@
-<div align=center>
-  
-![ FRONT-END WEB DEVELOPER](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/493813723_1421280312213434_1884250895663607629_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGKmZ6dzqM6Bc7Lgt7L_vSZxyLxGDQ9at_HIvEYND1q34Ud6I1NXHi7UlW2EhKcnhwmTcL8xMUPmsclyNMytyMi&_nc_ohc=nH-J-0Mc7mkQ7kNvwHbt-Xs&_nc_oc=AdnU5Va6UWmBPO1qfZ4lMxS7B4uRyFkTH4y7CsyZyuEjwsHRB6btNxaoVbdqhpb_Gbc&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=D0qtGuS6RaXQPWJZNERC0g&oh=00_AfEYoQ4yA9jFl5Ls2CusoCaQAPRRLtr2lvmtjPqT8X_2mA&oe=6814C1F7)
-
-
-</div>
 
 <h1 align="center">👋 Hi, I'm Alif Hossain!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+Learner;Love+to+build+cool+projects;Always+learning+new+things" alt="Typing SVG" />
 </p>
+
+
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/881f335f9a549e4fe4438ff7290efdfa687dac24369b43d4fd76a7b4fc0db55f/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d584a3362584278597a4e32646e49786557527a4e7a4e73634867794d6d396a626d52715a4468694d546875596e68706333643661535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5774546e41665a6e3661564a66427a6c4e332f67697068792e676966" alt="Rayan Hossain" data-canonical-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
+</div>
 
 ---
 
