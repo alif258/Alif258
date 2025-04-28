@@ -3,7 +3,7 @@
 
 
 
-### Hi 👋, I am Alif
+### Hello👋, I am Alif
 ####  FRONT-END WEB DEVELOPER
 
 Front-End Developer who loves transforming ideas into reality.
