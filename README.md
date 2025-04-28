@@ -1,4 +1,9 @@
+<div align=center>
+  
+![ FRONT-END WEB DEVELOPER](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/493813723_1421280312213434_1884250895663607629_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGKmZ6dzqM6Bc7Lgt7L_vSZxyLxGDQ9at_HIvEYND1q34Ud6I1NXHi7UlW2EhKcnhwmTcL8xMUPmsclyNMytyMi&_nc_ohc=nH-J-0Mc7mkQ7kNvwHbt-Xs&_nc_oc=AdnU5Va6UWmBPO1qfZ4lMxS7B4uRyFkTH4y7CsyZyuEjwsHRB6btNxaoVbdqhpb_Gbc&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=D0qtGuS6RaXQPWJZNERC0g&oh=00_AfEYoQ4yA9jFl5Ls2CusoCaQAPRRLtr2lvmtjPqT8X_2mA&oe=6814C1F7)
 
+
+</div>
 
 <h1 align="center">👋 Hi, I'm Alif Hossain!</h1>
 
@@ -56,12 +61,7 @@
 ---
 
 
-<div align=center>
-  
-![ FRONT-END WEB DEVELOPER](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/493813723_1421280312213434_1884250895663607629_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGKmZ6dzqM6Bc7Lgt7L_vSZxyLxGDQ9at_HIvEYND1q34Ud6I1NXHi7UlW2EhKcnhwmTcL8xMUPmsclyNMytyMi&_nc_ohc=nH-J-0Mc7mkQ7kNvwHbt-Xs&_nc_oc=AdnU5Va6UWmBPO1qfZ4lMxS7B4uRyFkTH4y7CsyZyuEjwsHRB6btNxaoVbdqhpb_Gbc&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=D0qtGuS6RaXQPWJZNERC0g&oh=00_AfEYoQ4yA9jFl5Ls2CusoCaQAPRRLtr2lvmtjPqT8X_2mA&oe=6814C1F7)
 
-
-</div>
 
 ## 🔥 Profile Visitors
 
