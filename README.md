@@ -79,16 +79,16 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alif258" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/alif258" target="_blank" title="Follow me in LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/alif.web.bd" target="_blank" title="Facebook">
+  <a href="https://www.facebook.com/alif.web.bd" target="_blank" title="Follow me in Facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/alif.web.bd" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/alif.web.bd" target="_blank" title="Follow me in Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/alif_258" target="_blank" title="Twitter">
+  <a href="https://twitter.com/alif_258" target="_blank" title="Follow me in Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
