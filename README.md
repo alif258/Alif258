@@ -13,29 +13,25 @@
 <h2 align="center">🚀 About Me</h2>
 
 
-- 🌱 I’m currently learning React.js and Next.js  
-- 💻 I love building creative and responsive websites  
+- 💻 I love building creative and responsive websites
+- 🔄 I refactor code even when it works — perfectionist vibes 😅  
+- 🖌️ I love UI design almost as much as coding  
+- ☕ Code + Coffee = Happiness  
+- 🧩 Problem solving is my favorite part of development
 - ✉️ Reach me at: **alif.web.bd@gmail.com**
 
 ---
 
 <h2 align="center">🧠 What I'm Currently Learning</h2>
 
+
+- 🌱 I’m currently learning React.js and Next.js  
 - ⚛️ Advanced React (Hooks, Context API, performance optimization)  
 - 🌐 Next.js (Routing, SSR, API routes)  
 - 🔐 Authentication (JWT, Firebase Auth)  
 - 🧩 TypeScript basics  
 - 📦 State Management (Zustand, Redux Toolkit)
 
----
-
-<h2 align="center">🤓 Fun Facts</h2>
-
-
-- 🔄 I refactor code even when it works — perfectionist vibes 😅  
-- 🖌️ I love UI design almost as much as coding  
-- ☕ Code + Coffee = Happiness  
-- 🧩 Problem solving is my favorite part of development
 
 ---
 
